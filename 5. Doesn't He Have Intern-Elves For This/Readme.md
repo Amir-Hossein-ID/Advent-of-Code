@@ -1,4 +1,4 @@
-\--- Day 5: Doesn't He Have Intern-Elves For This? ---
+\--- [Day 5: Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5) ---
 ------------------------------------------------------
 
 Santa needs help figuring out which strings in his text file are naughty or nice.

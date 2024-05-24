@@ -1,4 +1,4 @@
-\--- Day 7: Some Assembly Required ---
+\--- [Day 7: Some Assembly Required](https://adventofcode.com/2015/day/7) ---
 --------------------------------------
 
 This year, Santa brought little Bobby Tables a set of wires and [bitwise logic gates](https://en.wikipedia.org/wiki/Bitwise_operation)! Unfortunately, little Bobby is a little under the recommended age range, and he needs help assembling the circuit.
