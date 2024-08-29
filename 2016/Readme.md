@@ -1,7 +1,7 @@
 My Answers for Advent of Code 2016 challanges
 -------------
 
-The challenges or availble [Here](https://adventofcode.com/2016)
+The challenges are availble [Here](https://adventofcode.com/2016)
 
 
 And this is the result:
